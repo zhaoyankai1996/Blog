@@ -19,7 +19,7 @@
 					<dl class="dl-blog">
 						<dt>{{$t('about.blogSource')}}</dt>
 						<dd>
-							<a target="_blank" href=""><img class="icon" src="../assets/mayun.png" alt="码云" /></a>
+							<a target="_blank" href="https://gitee.com/fengziy/Fblog"><img class="icon" src="../assets/mayun.png" alt="码云" /></a>
 						</dd>
 						<dt>{{$t('about.technology')}}</dt>
 						<dd>Vue、Vue-Router、Element-ui、Vue-i18n</dd>
