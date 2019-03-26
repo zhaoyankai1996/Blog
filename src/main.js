@@ -21,6 +21,7 @@ Vue.component("f-footer",fFooter)
 //})
 
 const router =new VueRouter({
+	base: '/fBlog',
 	routes,
 	mode: 'history'
 })
