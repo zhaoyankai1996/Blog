@@ -7,7 +7,7 @@
 						<h5><router-link to="/article" tag="span" class="art-title">鼠标悬浮时显示</router-link></h5>
 						<el-row class="art-info d-flex align-items-center justify-content-start">
 							<div class="art-time"><i class="el-icon-time"></i>：2019-03-24</div>
-							<div><img class="tag" src="../assets/tag.png" />：
+							<div class="d-flex align-items-center"><img class="tag" src="../assets/tag.png" />：
 								<el-tag size="mini">swagger2</el-tag>
 							</div>
 						</el-row>
@@ -33,8 +33,8 @@
 						<h5><router-link to="/article" tag="span" class="art-title">鼠标悬浮时显示</router-link></h5>
 						<el-row class="art-info d-flex align-items-center justify-content-start">
 							<div class="art-time"><i class="el-icon-time"></i>：2019-03-24</div>
-							<div><img class="tag" src="../assets/tag.png" />：
-								<el-tag size="mini">tag2</el-tag>
+							<div class="d-flex align-items-center"><img class="tag" src="../assets/tag.png" />：
+								<el-tag size="mini">swagger2</el-tag>
 							</div>
 						</el-row>
 						<el-row class="art-body">
@@ -59,8 +59,8 @@
 						<h5><router-link to="/article" tag="span" class="art-title">鼠标悬浮时显示</router-link></h5>
 						<el-row class="art-info d-flex align-items-center justify-content-start">
 							<div class="art-time"><i class="el-icon-time"></i>：2019-03-24</div>
-							<div><img class="tag" src="../assets/tag.png" />：
-								<el-tag size="mini">tag2</el-tag>
+							<div class="d-flex align-items-center"><img class="tag" src="../assets/tag.png" />：
+								<el-tag size="mini">swagger2</el-tag>
 							</div>
 						</el-row>
 						<el-row class="art-body">
@@ -85,8 +85,8 @@
 						<h5><router-link to="/article" tag="span" class="art-title">鼠标悬浮时显示</router-link></h5>
 						<el-row class="art-info d-flex align-items-center justify-content-start">
 							<div class="art-time"><i class="el-icon-time"></i>：2019-03-24</div>
-							<div><img class="tag" src="../assets/tag.png" />：
-								<el-tag size="mini">tag4</el-tag>
+							<div class="d-flex align-items-center"><img class="tag" src="../assets/tag.png" />：
+								<el-tag size="mini">swagger2</el-tag>
 							</div>
 						</el-row>
 						<el-row class="art-body">
@@ -217,7 +217,9 @@
 	.art-more .view {
 		color: #aaa;
 	}
-	
+	h5{
+		font-size: 18px;
+	}
 	.pagination {
 		background-color: #F9F9F9;
 	}

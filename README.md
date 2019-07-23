@@ -63,5 +63,5 @@ location /fBlog/ {
 
 ## 演示
 ```
-域名/fBlog/
+域名:4567/fBlog/
 ```

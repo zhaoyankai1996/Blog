@@ -5,6 +5,7 @@ import VueRouter from 'vue-router'
 import routes from './routers'
 import 'element-ui/lib/theme-chalk/index.css'
 import 'element-ui/lib/theme-chalk/display.css'
+import './assets/style.css'
 import fHeader from './components/f-header'
 import fFooter from './components/f-footer'
 import i18n from './i18n/i18n'
@@ -21,7 +22,6 @@ Vue.component("f-footer",fFooter)
 //})
 
 const router =new VueRouter({
-	base: '/fBlog',
 	routes,
 	mode: 'history'
 })

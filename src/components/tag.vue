@@ -1,18 +1,18 @@
 <template>
 	<div class="tag">
 		<el-card class="box-card">
-			<div slot="header" class="clearfix">
+			<div slot="header" class="d-flex align-items-center">
 				<img class="card-icon" src="../assets/biaoqian.png" />
 				<span>{{$t('tag.tag')}}</span>
 			</div>
 			<div class="text item">
-				<el-tag size="mini" class="tag" @click="tag('Java')">Java[12]</el-tag>
-				<el-tag size="mini" class="tag" type="success" @click="tag('SpringBoot')">SpringBoot[8]</el-tag>
-				<el-tag size="mini" class="tag" type="info" @click="tag('HTML')">HTML[8]</el-tag>
-				<el-tag size="mini" class="tag" type="warning" @click="tag('Mysql')">Mysql[5]</el-tag>
-				<el-tag size="mini" class="tag" type="danger" @click="tag('Vue')">Vue[3]</el-tag>
-				<el-tag size="mini" class="tag" type="info" @click="tag('jQuery')">jQuery[6]</el-tag>
-				<el-tag size="mini" class="tag" type="success" @click="tag('SpringCloud')">SpringCloud[9]</el-tag>
+				<el-tag size="mini" class="tag-item" @click="tag('Java')">Java[12]</el-tag>
+				<el-tag size="mini" class="tag-item" type="success" @click="tag('SpringBoot')">SpringBoot[8]</el-tag>
+				<el-tag size="mini" class="tag-item" type="info" @click="tag('HTML')">HTML[8]</el-tag>
+				<el-tag size="mini" class="tag-item" type="warning" @click="tag('Mysql')">Mysql[5]</el-tag>
+				<el-tag size="mini" class="tag-item" type="danger" @click="tag('Vue')">Vue[3]</el-tag>
+				<el-tag size="mini" class="tag-item" type="info" @click="tag('jQuery')">jQuery[6]</el-tag>
+				<el-tag size="mini" class="tag-item" type="success" @click="tag('SpringCloud')">SpringCloud[9]</el-tag>
 			</div>
 		</el-card>
 	</div>
@@ -50,7 +50,7 @@
 		margin-right: 10px;
 	}
 	
-	.tag {
+	.tag-item {
 		margin-right: 10px;
 	}
 </style>

@@ -1,10 +1,10 @@
 <template>
 	<div class="friend">
 		<el-card class="box-card">
-		  <div slot="header" class="clearfix">
+		  <div slot="header" class="d-flex align-items-center">
 		  	<img class="card-icon" src="../assets/lianjie.png"/>
 		    <span>{{$t('friend.friend')}}</span>
-		    <el-button style="float: right; padding: 3px 0" type="text">
+		    <el-button class="ml-auto" style="padding: 3px 0" type="text">
 		    	<router-link to="/apply" tag="span">{{$t('friend.exchange')}}</router-link>
 		    </el-button>
 		  </div>
