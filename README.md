@@ -4,6 +4,7 @@
 ```
 
 ## 演示地址
+[demo](http://www.fengziy.cn/fBlog/)
 ```
 http://www.fengziy.cn/fBlog/
 ```
