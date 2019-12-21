@@ -5,8 +5,11 @@
 
 ## 演示地址
 [demo](http://www.fengziy.cn/fBlog/)
+[备用地址](https://fengziye.github.io/blog/)
 ```
 http://www.fengziy.cn/fBlog/
+
+https://fengziye.github.io/blog/
 ```
 
 ## 项目截图
