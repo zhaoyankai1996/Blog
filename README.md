@@ -4,13 +4,20 @@
 ```
 
 ## 演示地址
-[demo](http://www.fengziy.cn/fBlog/)
+[demo](http://www.fengziy.cn/fBlog/)   
 [备用地址](https://fengziye.github.io/blog/)
 ```
 http://www.fengziy.cn/fBlog/
 
 https://fengziye.github.io/blog/
 ```
+
+## Gblog博客模板新作
+> 
+> 非常nice!  
+> [Gblog](https://gitee.com/fengziy/Gblog)  
+> https://gitee.com/fengziy/Gblog
+> 
 
 ## 项目截图
 
