@@ -10,7 +10,7 @@
     <a href="https://element.eleme.cn/2.6/#/zh-CN/component/installation">
     <img src="https://img.shields.io/badge/elementui-2.6.3-blue.svg" alt="element-ui"/>
   </a>
-  <a href="https://github.com/fengziye/Gblog/blob/master/license">
+  <a href="https://gitee.com/fengziy/Fblog/blob/master/license">
     <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license"/>
   </a>
 </p>
