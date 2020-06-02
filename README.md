@@ -1,4 +1,19 @@
 # Fblog
+<p align="center">
+  <a href="https://gitee.com/fengziy/Fblog">
+    <img src="https://gitee.com/fengziy/Fblog/badge/star.svg?theme=white" alt="star"/>
+    <img src="https://gitee.com/fengziy/Fblog/badge/fork.svg" alt="fork"/>
+  </a>
+  <a href="https://github.com/vuejs/vue">
+    <img src="https://img.shields.io/badge/vue-2.6.6-brightgreen.svg" alt="vue"/>
+  </a>
+    <a href="https://element.eleme.cn/2.6/#/zh-CN/component/installation">
+    <img src="https://img.shields.io/badge/elementui-2.6.3-blue.svg" alt="element-ui"/>
+  </a>
+  <a href="https://github.com/fengziye/Gblog/blob/master/license">
+    <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license"/>
+  </a>
+</p>
 ```
 一个基于vue3.x+element-ui简洁的博客模板
 ```
