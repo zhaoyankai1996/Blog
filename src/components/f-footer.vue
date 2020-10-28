@@ -9,8 +9,8 @@
 			</el-col>-->
 			<el-col :span="8" class="item-col">
 				<div class="title">{{$t('footer.expressLane')}}</div>
-				<div class=""><a href="#" class="out-link">{{$t('footer.gitee')}}</a></div>
-				<div class=""><a href="#" class="out-link">CSDN</a></div>
+				<div class=""><a href="https://gitee.com/fengziy" class="out-link">{{$t('footer.gitee')}}</a></div>
+				<div class=""><a href="https://blog.csdn.net/feng_zi_ye" class="out-link">CSDN</a></div>
 				<div class=""><a href="#" class="out-link">{{$t('footer.admin')}}</a></div>
 			</el-col>
 			<el-col :span="8" class="item-col weside">
@@ -24,7 +24,7 @@
 				</div>
 				<div class="item">
 					<i class="el-icon-caret-right"></i>
-					© fengziy-博客 | 渝ICP备17015355
+					© fengziy.cn | <a class="out-link" href="http://www.beian.miit.gov.cn">渝ICP备17015355号-1</a>
 				</div>
 			</el-col>
 		</el-row>
