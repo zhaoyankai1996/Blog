@@ -1,7 +1,7 @@
 <template>
 	<div>
 		<el-menu :default-active="activeIndex" class="d-flex" mode="horizontal" router="true" type="flex">
-			<el-menu-item class="mr-auto">FZY</el-menu-item>
+			<el-menu-item class="mr-auto">mohuangNPC</el-menu-item>
 			<el-menu-item index="/Blog/home">{{$t("header.home")}}</el-menu-item>
 			<el-menu-item index="/Blog/archive">{{$t("header.archive")}}</el-menu-item>
 			<el-menu-item index="/Blog/about">{{$t("header.about")}}</el-menu-item>
