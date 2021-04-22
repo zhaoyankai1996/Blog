@@ -6,7 +6,7 @@ import apply from './pages/apply'
 
 const routes = [
 {
-	path:'/Blog/',
+	path:'/Blog',
     component:home
 },
 {
