@@ -27,10 +27,10 @@ jobs:
 
       - name: Install
         run: |
-#          改为本地build 速度快一些
+          cp /home/runner/work/Blog/Blog/dist/index.html /home/runner/work/Blog/Blog/dist/404.html
+          #          改为本地build 速度快一些
 #          npm install
 #          npm run build
-          cp /home/runner/work/Blog/Blog/dist/index.html /home/runner/work/Blog/Blog/dist/404.html
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.1
