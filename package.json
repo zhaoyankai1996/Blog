@@ -2,6 +2,7 @@
   "name": "fzy",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://zhaoyankai1996.github.io/Blog/",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
