@@ -6,42 +6,42 @@ import apply from './pages/apply'
 
 const routes = [
 {
-	path:'/',
+	path:'/Blog/',
     component:home
 },
 {
-	path:'/home',
+	path:'/Blog/home',
 	name:'home',
     component:home
 },
 {
-    path:'/about',
+    path:'/Blog/about',
     name:'about',
     component:about
 },
 {
-    path:'/archive',
+    path:'/Blog/archive',
     name:'archive',
     component:archive
 },
 {
-    path:'/tag/:name',
+    path:'/Blog/tag/:name',
     name:'tag',
     component:archive
 },
 {
-    path:'/article',
+    path:'/Blog/article',
     name:'article',
     component:article
 },
 {
-    path:'/apply',
+    path:'/Blog/apply',
     name:'apply',
     component:apply
 },
 {
     path:'*',
-    redirect:'/'
+    redirect:'/Blog'
 }
 ]
 export default routes;
